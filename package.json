@@ -4,6 +4,7 @@
   "type": "module",
   "dependencies": {
     "express": "^4.19.2",
+    "jsdom": "^29.0.2",
     "node-fetch": "^3.3.2"
   }
 }
